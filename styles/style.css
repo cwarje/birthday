@@ -84,7 +84,7 @@ html, body {
 	100%{background-position:0% 82%}
 }
 
-.textrainbow {
+#textrainbow {
 	/* Chrome, Safari, Opera */
 	-webkit-animation: textrainbow 12s infinite; 
 
